@@ -14,4 +14,4 @@ Git, GitHub, Xcode, Swift, UIKit
 
 ### Сертификаты Нетологии
 
-- iOS
+- iOS (https://github.com/MickeyRU/MickeyRU/blob/main/iOS.pdf)
