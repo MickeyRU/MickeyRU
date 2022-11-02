@@ -9,7 +9,9 @@ Git, GitHub, Xcode, Swift, UIKit
 
 ### Вот, что я умею
 
-- UIKit [Репозиторий с работами в рамках курса iOS разработчик]
+- Пет проект [Приоложение по поиску фотографий на Unsplash] (https://github.com/MickeyRU/PhotoAppWithUnsplash)
+
+- UIKit [Репозиторий с работами в рамках курса iOS разработчик в Нетологии]
  (https://github.com/MickeyRU/ios-homeworks)
 
 ### Сертификаты Нетологии
