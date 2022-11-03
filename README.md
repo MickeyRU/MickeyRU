@@ -11,7 +11,7 @@ Git, GitHub, Xcode, Swift, UIKit
 
 - Пет проект [Приложение по поиску фотографий на Unsplash] (https://github.com/MickeyRU/PhotoAppWithUnsplash)
 - Учебный проект [Калькулятор] (https://github.com/MickeyRU/Calculator/)
-- UIKit [Репозиторий с работами в рамках курса iOS разработчик в Нетологии]
+- Учебный репозиторий [Репозиторий с работами в рамках курса iOS разработчик в Нетологии]
  (https://github.com/MickeyRU/ios-homeworks)
 
 ### Сертификаты Нетологии
