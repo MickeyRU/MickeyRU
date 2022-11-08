@@ -7,7 +7,7 @@
 Git, GitHub, Xcode, Swift, UIKit
 
 
-### Вот, что я умею
+### Вот, что я уже написал
 
 - Пет проект [Приложение по поиску фотографий на Unsplash] (https://github.com/MickeyRU/PhotoAppWithUnsplash)
 - Учебный проект [Калькулятор] (https://github.com/MickeyRU/Calculator/)
