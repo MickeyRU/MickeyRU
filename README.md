@@ -15,7 +15,7 @@ Git, GitHub, Xcode, Swift, UIKit
 
 #Учебные проекты:
 
-- [Информация пользователя - приложение по мотивам тестового задания](https://github.com/MickeyRU/UserInformationApp)
+- [Информация о пользователе](https://github.com/MickeyRU/UserInformationApp)
 - [Калькулятор](https://github.com/MickeyRU/Calculator/)
 - [Репозиторий с работами в рамках курса iOS разработчик в Нетологии](https://github.com/MickeyRU/ios-homeworks)
  
