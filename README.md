@@ -19,7 +19,7 @@
 Учебные проекты:
 - [NFT - маркетплейс](https://github.com/MickeyRU/iOS-FakeNFT-Group-3)
 - [Трекер привычек](https://github.com/MickeyRU/Tracker/)
-- [Приложение для просмотра фотографий через API Unsplash]([https://github.com/MickeyRU/UserInformationApp](https://github.com/MickeyRU/ImageFeed))
+- [Приложение для просмотра фотографий через API Unsplash](https://github.com/MickeyRU/ImageFeed)
 - [Квизы о фильмах с API IMDb](https://github.com/MickeyRU/MovieQuiz-ios)
 - [Информация о пользователе](https://github.com/MickeyRU/UserInformationApp)
 - [Калькулятор](https://github.com/MickeyRU/Calculator/)
