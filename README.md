@@ -13,10 +13,8 @@
 
 ### Вот, что я уже написал
 
-Пет проекты:
+Проекты:
 - [Приложение по поиску фотографий на Unsplash](https://github.com/MickeyRU/PhotoAppWithUnsplash)
-
-Учебные проекты:
 - [NFT - маркетплейс](https://github.com/MickeyRU/iOS-FakeNFT-Group-3)
 - [Трекер привычек](https://github.com/MickeyRU/Tracker/)
 - [Приложение для просмотра фотографий через API Unsplash](https://github.com/MickeyRU/ImageFeed)
