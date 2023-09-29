@@ -22,7 +22,9 @@
 - [Информация о пользователе](https://github.com/MickeyRU/UserInformationApp)
 - [Калькулятор](https://github.com/MickeyRU/Calculator/)
 - [Репозиторий с работами в рамках курса iOS разработчик в Нетологии](https://github.com/MickeyRU/ios-homeworks)
- 
+
+Тестовые задания:
+- [Avito - галерея товаров](https://github.com/MickeyRU/Avito_TestTask)
 
 ### Сертификаты и дипломы
 
