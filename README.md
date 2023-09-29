@@ -27,5 +27,5 @@
 - [Avito - галерея товаров](https://github.com/MickeyRU/Avito_TestTask)
 
 ### Сертификаты и дипломы
-
+- [Figma - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/figma.pdf)
 - [IOS Разработчик - Нетология](https://github.com/MickeyRU/MickeyRU/blob/main/iOS.pdf)
