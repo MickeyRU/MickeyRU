@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-**Технологии и Библиотеки:** UIKit, CoreData, UserDefaults, Keychain, Kingfisher, SnapshotTesting, REST API, OAuth 2.0  
+**Технологии и Библиотеки:** Foundation, UIKit, CoreData, UserDefaults, Keychain, Kingfisher, SnapshotTesting, REST API, OAuth 2.0  
 **Инструменты:** GIT, Figma, Trello  
 **Архитектурные Паттерны:** MVC, MVP, MVVM  
 **Принципы Разработки:** SOLID, YAGNI, KISS, DRY  
