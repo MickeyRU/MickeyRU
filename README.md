@@ -1,6 +1,6 @@
 Привет!
 
-Я **Павел Афанасьев**, iOS разработчик.
+Я **Павел Афанасьев**, IOS разработчик.
 
 ### Мой стек
 
@@ -27,5 +27,6 @@
 - [Avito - галерея товаров](https://github.com/MickeyRU/Avito_TestTask)
 
 ### Сертификаты и дипломы
+- [IOS Разработчик - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/IOS%20разработчик%20-%20Яндекс%20Практикум.pdf)
 - [Figma - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/figma.pdf)
 - [IOS Разработчик - Нетология](https://github.com/MickeyRU/MickeyRU/blob/main/iOS.pdf)
