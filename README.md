@@ -3,7 +3,7 @@
 
 ### :woman_technologist: &nbsp;Обо мне :
 
-я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, в разработке с 2021 🚀
+я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, в мобилке с 2021 🚀
 
 - 🔭 Готовлю к релизу в App Store командный проект [Cherry](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)
 - 🌱 Изучаю основные алгоритмы и структуры данных в Я. Практикуме
