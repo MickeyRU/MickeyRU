@@ -30,21 +30,17 @@
 ---
 
 ### ✍️ &nbsp;Вот, что я уже написал : 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=iOS-FakeNFT-Group-3&theme=vision-friendly-dark)](https://github.com/MickeyRU/iOS-FakeNFT-Group-3)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=Tracker&theme=vision-friendly-dark)](https://github.com/MickeyRU/Tracker)
 
-- [NFT - маркетплейс](https://github.com/MickeyRU/iOS-FakeNFT-Group-3)
-- [Трекер привычек](https://github.com/MickeyRU/Tracker/)
-- [Приложение для просмотра фотографий через API Unsplash](https://github.com/MickeyRU/ImageFeed)
-- [Квизы о фильмах с API IMDb](https://github.com/MickeyRU/MovieQuiz-ios)
-- [Приложение по поиску фотографий на Unsplash](https://github.com/MickeyRU/PhotoAppWithUnsplash)
-- [Информация о пользователе](https://github.com/MickeyRU/UserInformationApp)
-- [Калькулятор](https://github.com/MickeyRU/Calculator/)
-- [Репозиторий с работами в рамках курса iOS разработчик в Нетологии](https://github.com/MickeyRU/ios-homeworks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=ImageFeed&theme=vision-friendly-dark)](https://github.com/MickeyRU/ImageFeed)
 
-Тестовые задания:
-- [Avito - галерея товаров](https://github.com/MickeyRU/Avito_TestTask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=MovieQuiz-ios&theme=vision-friendly-dark)](https://github.com/MickeyRU/MovieQuiz-ios)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=Avito_TestTask&theme=vision-friendly-dark)](https://github.com/MickeyRU/Avito_TestTask)
+
 
 ### 👨🏻‍🎓 &nbsp;Сертификаты и дипломы:
 - [IOS Разработчик - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/IOS%20разработчик%20-%20Яндекс%20Практикум.pdf)
