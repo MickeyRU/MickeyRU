@@ -8,7 +8,7 @@
 - 🔭 Готовлю к релизу в App Store командный проект [Cherry](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)
 - 🌱 Изучаю основные алгоритмы и структуры данных в Я. Практикуме
 - 🏊‍♂️ Отправлюсь в заплыв в бассейн Школы 21
-- ⚡ Интересный факт: одновременно с разработкой полюбил WorkOut 💪
+- ⚡ Интересный факт: одновременно с мобильной разработкой полюбил WorkOut 💪
 
 ---
 
@@ -22,14 +22,14 @@
 
 ---
 
-### 🔥 &nbsp; Моя статистика :
+### 🔥 &nbsp;Моя статистика :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MickeyRU&theme=vision-friendly-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickeyRU&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### ✍️ Вот, что я уже написал : 
+### ✍️ &nbsp;Вот, что я уже написал : 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=iOS-FakeNFT-Group-3&theme=vision-friendly-dark)](https://github.com/MickeyRU/iOS-FakeNFT-Group-3)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -46,7 +46,7 @@
 Тестовые задания:
 - [Avito - галерея товаров](https://github.com/MickeyRU/Avito_TestTask)
 
-### 👨🏻‍🎓 Сертификаты и дипломы
+### 👨🏻‍🎓 &nbsp;Сертификаты и дипломы:
 - [IOS Разработчик - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/IOS%20разработчик%20-%20Яндекс%20Практикум.pdf)
 - [Figma - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/figma.pdf)
 - [IOS Разработчик - Нетология](https://github.com/MickeyRU/MickeyRU/blob/main/iOS.pdf)
