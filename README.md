@@ -14,8 +14,8 @@
 
 ### 🛠 &nbsp;Мой стэк :
 
-**Технологии и Библиотеки:** UIKit, Combine, CoreData, UserDefaults, Keychain, Kingfisher, SnapshotTesting, REST API, OAuth 2.0  
-**Инструменты:** GIT, Figma, Trello  
+**Технологии и Библиотеки:** UIKit, Combine, CoreData, UserDefaults, Keychain, Kingfisher, REST API, OAuth 2.0  
+**Инструменты:** GIT, Figma, Trello, xCode  
 **Архитектурные Паттерны:** MVC, MVP, MVVM + Coordinator  
 **Принципы Разработки:** SOLID, YAGNI, KISS, DRY  
 **Другие Навыки:** Верстка Кодом  
