@@ -31,6 +31,8 @@
 
 ### ✍️ &nbsp;Вот, что я уже написал : 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mobile-app-promotions-and-discounts&repo=IOSApp&theme=vision-friendly-dark)](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=iOS-FakeNFT-Group-3&theme=vision-friendly-dark)](https://github.com/MickeyRU/iOS-FakeNFT-Group-3)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=Tracker&theme=vision-friendly-dark)](https://github.com/MickeyRU/Tracker)
