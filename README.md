@@ -3,10 +3,9 @@
 
 ### :woman_technologist: &nbsp;Обо мне :
 
-я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, в мобилке с 2021 🚀
+я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, кодю с 2022 🚀
 
-- 🔭 Готовлю к релизу в App Store командный проект [Cherry](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)
-- 🌱 Изучаю основные алгоритмы и структуры данных в [Я. Практикуме](https://practicum.yandex.ru)
+- 🔭 Разрабатываю собственный проект - утилиту под IOS для мобильной игры Eve Echoes [Cosmic-Slipway](https://github.com/MickeyRU/Cosmic-Slipway)
 - 🏊‍♂️ Проплыл бассейн, учусь на основе в [Школе 21](https://21-school.ru) 
 - ⚡ Интересный факт: одновременно с мобильной разработкой полюбил WorkOut 💪
 
@@ -45,6 +44,7 @@
 ---
 
 ### 👨🏻‍🎓 &nbsp;Сертификаты и дипломы:
+- [Алгоритмы и структуры данных - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/Algorithms%20and%20DataStructures.pdf)
 - [IOS Разработчик - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/IOS%20разработчик%20-%20Яндекс%20Практикум.pdf)
 - [Figma - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/figma.pdf)
 - [IOS Разработчик - Нетология](https://github.com/MickeyRU/MickeyRU/blob/main/iOS.pdf)
