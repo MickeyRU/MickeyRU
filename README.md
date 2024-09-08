@@ -3,7 +3,7 @@
 
 ### :woman_technologist: &nbsp;Обо мне :
 
-я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, кодю с 2022 🚀
+я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, занимаюсь разработкой с 2022 🚀
 
 - 🔭 Разрабатываю собственный проект - утилиту под IOS для мобильной игры Eve Echoes [Cosmic-Slipway](https://github.com/MickeyRU/Cosmic-Slipway)
 - 🏊‍♂️ Проплыл бассейн, учусь на основе в [Школе 21](https://21-school.ru) 
@@ -18,7 +18,7 @@
 **Инструменты:** GIT, Figma, Trello, xCode  
 **Архитектурные Паттерны:** MVC, MVP, MVVM + Coordinator  
 **Принципы Разработки:** SOLID, YAGNI, KISS, DRY  
-**Другие Навыки:** Верстка Кодом  
+**Другие Навыки:** Auto Layout
 
 ---
 
