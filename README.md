@@ -5,7 +5,7 @@
 
 я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, в разработкой с 2022 🚀
 
-- 🔭 Пишу приложение под IOS для мобильной игры Eve Echoes [Cosmic-Slipway](https://github.com/MickeyRU/Cosmic-Slipway) скоро релиз в App Store 💣
+- 🔭 Пишу утилиту для мобильной игры Eve Echoes [Cosmic-Slipway](https://github.com/MickeyRU/Cosmic-Slipway) - скоро релиз в App Store 💣
 - 🏊‍♂️ Проплыл бассейн, учусь на основе в [Школе 21](https://21-school.ru) 
 - ⚡ Интересный факт: одновременно с мобильной разработкой полюбил WorkOut 💪
 
@@ -26,7 +26,7 @@
 ### 🛠 &nbsp;Мой стэк :
 
 **Языки:** Swift, С  
-**Технологии и Библиотеки:** UIKit, SwiftUI, Combine, Swift Concurrency, CoreData, SnapKit, Kingfisher, REST API, OAuth 2.0  
+**Технологии и Библиотеки:** UIKit, SwiftUI, Combine, GCD, Concurrency, CoreData, SnapKit, Kingfisher, REST API, OAuth 2.0  
 **Инструменты:** GIT, Figma, xCode  
 **Архитектурные Паттерны:** MVC, MVP, MVVM + Coordinator  
 **Принципы Разработки:** SOLID, YAGNI, KISS, DRY  
