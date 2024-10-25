@@ -41,22 +41,6 @@
 
 ---
 
-### ✍️ &nbsp;Вот, что я уже написал : 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mobile-app-promotions-and-discounts&repo=IOSApp&theme=vision-friendly-dark)](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=iOS-FakeNFT-Group-3&theme=vision-friendly-dark)](https://github.com/MickeyRU/iOS-FakeNFT-Group-3)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=Tracker&theme=vision-friendly-dark)](https://github.com/MickeyRU/Tracker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=ImageFeed&theme=vision-friendly-dark)](https://github.com/MickeyRU/ImageFeed)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=MovieQuiz-ios&theme=vision-friendly-dark)](https://github.com/MickeyRU/MovieQuiz-ios)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MickeyRU&repo=Avito_TestTask&theme=vision-friendly-dark)](https://github.com/MickeyRU/Avito_TestTask)
-
----
-
 ### 👨🏻‍🎓 &nbsp;Сертификаты и дипломы:
 - [Алгоритмы и структуры данных - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/Algorithms%20and%20DataStructures.pdf)
 - [IOS Разработчик - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/IOS%20разработчик%20-%20Яндекс%20Практикум.pdf)
