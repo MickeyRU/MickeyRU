@@ -3,19 +3,31 @@
 
 ### :woman_technologist: &nbsp;Обо мне :
 
-я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, занимаюсь разработкой с 2022 🚀
+я <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы, в разработкой с 2022 🚀
 
-- 🔭 Разрабатываю собственный проект - утилиту под IOS для мобильной игры Eve Echoes [Cosmic-Slipway](https://github.com/MickeyRU/Cosmic-Slipway)
+- 🔭 Пишу приложение под IOS для мобильной игры Eve Echoes [Cosmic-Slipway](https://github.com/MickeyRU/Cosmic-Slipway) скоро релиз в App Store 💣
 - 🏊‍♂️ Проплыл бассейн, учусь на основе в [Школе 21](https://21-school.ru) 
 - ⚡ Интересный факт: одновременно с мобильной разработкой полюбил WorkOut 💪
 
 ---
 
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/павел-афанасьев-a67a68297">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a><a href="https://t.me/PavelAfanasiev">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a><a href="mailto:afanasyevpv9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+---
+
 ### 🛠 &nbsp;Мой стэк :
 
-**Языки:** SWIFT, С  
-**Технологии и Библиотеки:** UIKit, Combine, CoreData, UserDefaults, Keychain, Kingfisher, REST API, OAuth 2.0  
-**Инструменты:** GIT, Figma, Trello, xCode  
+**Языки:** Swift, С  
+**Технологии и Библиотеки:** UIKit, SwiftUI, Combine, Swift Concurrency, CoreData, SnapKit, Kingfisher, REST API, OAuth 2.0  
+**Инструменты:** GIT, Figma, xCode  
 **Архитектурные Паттерны:** MVC, MVP, MVVM + Coordinator  
 **Принципы Разработки:** SOLID, YAGNI, KISS, DRY  
 **Другие Навыки:** Auto Layout
