@@ -23,7 +23,7 @@
 
 **Языки:** Swift, С  
 **Технологии и Библиотеки:** UIKit, SwiftUI, Combine, GCD, Concurrency, CoreData, SnapKit, Kingfisher, REST API, OAuth 2.0  
-**Инструменты:** GIT, Figma, xCode  
+**Инструменты:** GIT, Figma, xCode, Docker  
 **Архитектурные Паттерны:** MVC, MVP, MVVM + Coordinator  
 **Принципы Разработки:** SOLID, YAGNI, KISS, DRY  
 **Другие Навыки:** Auto Layout
