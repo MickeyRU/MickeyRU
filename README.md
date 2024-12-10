@@ -22,9 +22,9 @@
 ### 🛠 &nbsp;Мой стэк :
 
 **Языки:** Swift, С  
-**Технологии и Библиотеки:** UIKit, SwiftUI, Combine, GCD, Concurrency, CoreData, SnapKit, Kingfisher, REST API, OAuth 2.0  
+**Технологии и Библиотеки:** UIKit, SwiftUI, Combine, GCD, Concurrency, CoreData, SwiftData, SnapKit, REST API, URLSession 
 **Инструменты:** GIT, Figma, xCode, Docker  
-**Архитектурные Паттерны:** MVC, MVP, MVVM + Coordinator  
+**Архитектурные Паттерны:** Clean Architecture, MVVM + Coordinator, MVP, MVC  
 **Принципы Разработки:** SOLID, YAGNI, KISS, DRY  
 **Другие Навыки:** Auto Layout
 
