@@ -38,6 +38,7 @@
 ---
 
 ### 👨🏻‍🎓 &nbsp;Сертификаты и дипломы:
+- [Буткемп Яндекс 360](https://github.com/user-attachments/files/18079058/2.-.iOS.-.pdf)
 - [Алгоритмы и структуры данных - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/Algorithms%20and%20DataStructures.pdf)
 - [IOS Разработчик - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/IOS%20разработчик%20-%20Яндекс%20Практикум.pdf)
 - [Figma - Яндекс Практикум](https://github.com/MickeyRU/MickeyRU/blob/main/figma.pdf)
