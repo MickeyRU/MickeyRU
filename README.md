@@ -1,8 +1,7 @@
 <h1>Павел Афанасьев</h1>
 
-C++ / бэкенд · Swift / iOS · магистрант ИТМО (Бэкенд-разработка — выпуск 2027)
+C++ / Backend · Swift / iOS · магистрант ИТМО (Бэкенд-разработка — выпуск 2027)
 
-Пишу бэкенд на C++
 
 **Языки**
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?label=&style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
